@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.logo{
+    color: blue;
+    font-size: large;
+    font-weight: 900;
+
+}
+
+nav{
+    
+}
